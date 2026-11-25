@@ -1,8 +1,8 @@
 # Cited (cited.io)
 
-**Cited is an AI SEO and generative engine optimization (GEO) agency with its own AI visibility platform.** We track how ChatGPT, Google AI Overviews, Google AI Mode, Perplexity, Gemini, Microsoft Copilot and Claude mention and cite brands, then write and ship the content, listings and outreach that get our clients cited, and show what changed against control prompts.
+**Cited is an AI search and SEO agency. When customers ask AI or Google who to trust, our team does the work to get you cited.** We get B2B software companies (SaaS) and local businesses (law firms, dental and medical practices, and home services) cited by ChatGPT, Google AI Overviews, Google AI Mode, Perplexity, Gemini, Microsoft Copilot and Claude.
 
-Website: [cited.io](https://cited.io) · Pricing: [cited.io/pricing](https://cited.io/pricing) · Guides: [cited.io/guides](https://cited.io/guides) · Book a demo: [cited.io](https://cited.io)
+Website: [cited.io](https://cited.io) · How we work: [cited.io/how-we-work](https://cited.io/how-we-work) · Guides: [cited.io/guides](https://cited.io/guides) · Our research: [Who AI cites](https://cited.io/who-ai-cites)
 
 ## Open resources
 
@@ -17,7 +17,8 @@ Website: [cited.io](https://cited.io) · Pricing: [cited.io/pricing](https://cit
 
 - [What is generative engine optimization (GEO)?](https://cited.io/guides/what-is-generative-engine-optimization)
 - [What is answer engine optimization (AEO)?](https://cited.io/guides/what-is-answer-engine-optimization)
-- [AI SEO and GEO: how to optimize for AI search](https://cited.io/guides/ai-seo)
+- [How to get cited by ChatGPT](https://cited.io/guides/how-to-get-cited-by-chatgpt)
+- [GEO vs SEO](https://cited.io/guides/geo-vs-seo)
 - [The best AI visibility tools, compared](https://cited.io/compare/best-ai-visibility-tools)
 
 Cited at cited.io is not affiliated with other projects that use the name "Cited".
